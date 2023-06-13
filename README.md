@@ -1,6 +1,8 @@
 <!-- Have a professional README (with unique name, description, technologies used, screenshot, and link to deployed application) -->
 
 # Bikini Bottom Booking
+## Dan McKay's contributor's mirror copy
+### [Original Repo](https://github.com/Omarggm/BikiniBottomBooking)
 
 ![image](https://img.shields.io/badge/License-MIT-slateblue.svg)
 
